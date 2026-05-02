@@ -7,8 +7,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Demo Link:** https://your-demo-link.com  
-📽️ **Demo Video:** https://your-demo-video-link.com  
+🔗 **Demo Link:** https://your-demo-link.com 
 
 ---
 
